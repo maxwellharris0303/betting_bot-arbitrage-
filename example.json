@@ -1,0 +1,942 @@
+{
+    "Leo Jimenez Over 0.5 -165": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Hits",
+            "bet_name": "Leo Jimenez Over 0.5",
+            "bet_odds": "-165"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Hits",
+            "bet_name": "Leo Jimenez Under 0.5",
+            "bet_odds": "+165"
+        }
+    },
+    "George Springer Over 0.5 -210": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Hits",
+            "bet_name": "George Springer Over 0.5",
+            "bet_odds": "-210"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Hits",
+            "bet_name": "George Springer Under 0.5",
+            "bet_odds": "+210"
+        }
+    },
+    "Denver Broncos +218": {
+        "team1": {
+            "percent_profit": "0.2%",
+            "event_time": "Sun, Sep 8 at 1:05 PM",
+            "event_teams": "Denver Broncos vs Seattle Seahawks",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Denver Broncos",
+            "bet_odds": "+218"
+        },
+        "team2": {
+            "percent_profit": "0.2%",
+            "event_time": "Sun, Sep 8 at 1:05 PM",
+            "event_teams": "Denver Broncos vs Seattle Seahawks",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Seattle Seahawks",
+            "bet_odds": "-220"
+        }
+    },
+    "Jose Quintana Over 1.5 -125": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 8:05 AM",
+            "event_teams": "New York Mets vs Washington Nationals",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Walks",
+            "bet_name": "Jose Quintana Over 1.5",
+            "bet_odds": "-125"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 8:05 AM",
+            "event_teams": "New York Mets vs Washington Nationals",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Walks",
+            "bet_name": "Jose Quintana Under 1.5",
+            "bet_odds": "+125"
+        }
+    },
+    "Jackie Young Over 0.5 +1100": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 7:00 PM",
+            "event_teams": "Washington Mystics vs Las Vegas Aces",
+            "event_type": "Basketball | WNBA",
+            "bet_type": "Player Double Double",
+            "bet_name": "Jackie Young Over 0.5",
+            "bet_odds": "+1100"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 7:00 PM",
+            "event_teams": "Washington Mystics vs Las Vegas Aces",
+            "event_type": "Basketball | WNBA",
+            "bet_type": "Player Double Double",
+            "bet_name": "Jackie Young Under 0.5",
+            "bet_odds": "-1100"
+        }
+    },
+    "Vladimir Guerrero Jr. Over 0.5 -130": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Singles",
+            "bet_name": "Vladimir Guerrero Jr. Over 0.5",
+            "bet_odds": "-130"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Singles",
+            "bet_name": "Vladimir Guerrero Jr. Under 0.5",
+            "bet_odds": "+130"
+        }
+    },
+    "Baltimore Orioles +1.5 -350": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 1:10 PM",
+            "event_teams": "Baltimore Orioles vs Seattle Mariners",
+            "event_type": "Baseball | MLB",
+            "bet_type": "1st Half Run Line",
+            "bet_name": "Baltimore Orioles +1.5",
+            "bet_odds": "-350"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 1:10 PM",
+            "event_teams": "Baltimore Orioles vs Seattle Mariners",
+            "event_type": "Baseball | MLB",
+            "bet_type": "1st Half Run Line",
+            "bet_name": "Seattle Mariners -1.5",
+            "bet_odds": "+350"
+        }
+    },
+    "Over 0.5 -105": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:05 AM",
+            "event_teams": "Cincinnati Reds vs New York Yankees",
+            "event_type": "Baseball | MLB",
+            "bet_type": "1st Inning Total Runs",
+            "bet_name": "Over 0.5",
+            "bet_odds": "-105"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 10:05 AM",
+            "event_teams": "Cincinnati Reds vs New York Yankees",
+            "event_type": "Baseball | MLB",
+            "bet_type": "1st Inning Total Runs",
+            "bet_name": "Under 0.5",
+            "bet_odds": "+105"
+        }
+    },
+    "Over 12.5 +450": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 9:00 AM",
+            "event_teams": "Gijs Brouwer vs Thai-Son Kwiatkowski",
+            "event_type": "Tennis | ATP Challenger",
+            "bet_type": "1st Set Total Games",
+            "bet_name": "Over 12.5",
+            "bet_odds": "+450"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 9:00 AM",
+            "event_teams": "Gijs Brouwer vs Thai-Son Kwiatkowski",
+            "event_type": "Tennis | ATP Challenger",
+            "bet_type": "1st Set Total Games",
+            "bet_name": "Under 12.5",
+            "bet_odds": "-450"
+        }
+    },
+    "Over 47.5 +110": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 13 at 6:30 AM",
+            "event_teams": "Jacksonville Jaguars vs Chicago Bears",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Over 47.5",
+            "bet_odds": "+110"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 13 at 6:30 AM",
+            "event_teams": "Jacksonville Jaguars vs Chicago Bears",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Under 47.5",
+            "bet_odds": "-110"
+        }
+    },
+    "Kansas City Chiefs -210": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Wed, Dec 25 at 10:00 AM",
+            "event_teams": "Kansas City Chiefs vs Pittsburgh Steelers",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Kansas City Chiefs",
+            "bet_odds": "-210"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Wed, Dec 25 at 10:00 AM",
+            "event_teams": "Kansas City Chiefs vs Pittsburgh Steelers",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Pittsburgh Steelers",
+            "bet_odds": "+210"
+        }
+    },
+    "Coco Gauff -500": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Today at 5:00 PM",
+            "event_teams": "Coco Gauff vs Sonay Kartal",
+            "event_type": "Tennis | WTA",
+            "bet_type": "1st Set Moneyline",
+            "bet_name": "Coco Gauff",
+            "bet_odds": "-500"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Today at 5:00 PM",
+            "event_teams": "Coco Gauff vs Sonay Kartal",
+            "event_type": "Tennis | WTA",
+            "bet_type": "1st Set Moneyline",
+            "bet_name": "Sonay Kartal",
+            "bet_odds": "+500"
+        }
+    },
+    "Carolina Panthers +205": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Dec 29 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs Tampa Bay Buccaneers",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Carolina Panthers",
+            "bet_odds": "+205"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Dec 29 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs Tampa Bay Buccaneers",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Tampa Bay Buccaneers",
+            "bet_odds": "-205"
+        }
+    },
+    "Denver Broncos +135": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 13 at 1:05 PM",
+            "event_teams": "Los Angeles Chargers vs Denver Broncos",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Denver Broncos",
+            "bet_odds": "+135"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 13 at 1:05 PM",
+            "event_teams": "Los Angeles Chargers vs Denver Broncos",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Los Angeles Chargers",
+            "bet_odds": "-135"
+        }
+    },
+    "Alphonso Davies Over 1.5 +200": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Fri, Jul 5 at 6:00 PM",
+            "event_teams": "Venezuela vs Canada",
+            "event_type": "Soccer | CONMEBOL - Copa America",
+            "bet_type": "Player Shots",
+            "bet_name": "Alphonso Davies Over 1.5",
+            "bet_odds": "+200"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Fri, Jul 5 at 6:00 PM",
+            "event_teams": "Venezuela vs Canada",
+            "event_type": "Soccer | CONMEBOL - Copa America",
+            "bet_type": "Player Shots",
+            "bet_name": "Alphonso Davies Under 1.5",
+            "bet_odds": "-200"
+        }
+    },
+    "Paysandu SC Over 4.5 +120": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Jul 7 at 7:00 AM",
+            "event_teams": "Coritiba FBC vs Paysandu SC",
+            "event_type": "Soccer | Brazil - Serie B",
+            "bet_type": "Team Total Corners",
+            "bet_name": "Paysandu SC Over 4.5",
+            "bet_odds": "+120"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Jul 7 at 7:00 AM",
+            "event_teams": "Coritiba FBC vs Paysandu SC",
+            "event_type": "Soccer | Brazil - Serie B",
+            "bet_type": "Team Total Corners",
+            "bet_name": "Paysandu SC Under 4.5",
+            "bet_odds": "-120"
+        }
+    },
+    "Urawa Red Diamonds Over 5.5 -110": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 2:30 AM",
+            "event_teams": "Urawa Red Diamonds vs Shonan Bellmare",
+            "event_type": "Soccer | Japan - J1 League",
+            "bet_type": "Team Total Corners",
+            "bet_name": "Urawa Red Diamonds Over 5.5",
+            "bet_odds": "-110"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 2:30 AM",
+            "event_teams": "Urawa Red Diamonds vs Shonan Bellmare",
+            "event_type": "Soccer | Japan - J1 League",
+            "bet_type": "Team Total Corners",
+            "bet_name": "Urawa Red Diamonds Under 5.5",
+            "bet_odds": "+110"
+        }
+    },
+    "Over 35 -225": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs New Orleans Saints",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Over 35",
+            "bet_odds": "-225"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs New Orleans Saints",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Under 35",
+            "bet_odds": "+225"
+        }
+    },
+    "Over 48.5 +120": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 27 at 5:20 PM",
+            "event_teams": "Dallas Cowboys vs San Francisco 49ers",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Over 48.5",
+            "bet_odds": "+120"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 27 at 5:20 PM",
+            "event_teams": "Dallas Cowboys vs San Francisco 49ers",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Under 48.5",
+            "bet_odds": "-120"
+        }
+    },
+    "Over 49 +110": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 20 at 1:25 PM",
+            "event_teams": "Kansas City Chiefs vs San Francisco 49ers",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Over 49",
+            "bet_odds": "+110"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sun, Oct 20 at 1:25 PM",
+            "event_teams": "Kansas City Chiefs vs San Francisco 49ers",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Under 49",
+            "bet_odds": "-110"
+        }
+    },
+    "Hakan \u00c7alhanoglu Over 1.5 -110": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 12:00 PM",
+            "event_teams": "Netherlands vs T\u00fcrkiye",
+            "event_type": "Soccer | UEFA - European Championship",
+            "bet_type": "Player Shots",
+            "bet_name": "Hakan \u00c7alhanoglu Over 1.5",
+            "bet_odds": "-110"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 12:00 PM",
+            "event_teams": "Netherlands vs T\u00fcrkiye",
+            "event_type": "Soccer | UEFA - European Championship",
+            "bet_type": "Player Shots",
+            "bet_name": "Hakan \u00c7alhanoglu Under 1.5",
+            "bet_odds": "+110"
+        }
+    },
+    "Cody Gakpo Over 0.5 +450": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 12:00 PM",
+            "event_teams": "Netherlands vs T\u00fcrkiye",
+            "event_type": "Soccer | UEFA - European Championship",
+            "bet_type": "Player Assists",
+            "bet_name": "Cody Gakpo Over 0.5",
+            "bet_odds": "+450"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 12:00 PM",
+            "event_teams": "Netherlands vs T\u00fcrkiye",
+            "event_type": "Soccer | UEFA - European Championship",
+            "bet_type": "Player Assists",
+            "bet_name": "Cody Gakpo Under 0.5",
+            "bet_odds": "-450"
+        }
+    },
+    "J\u00fabilo Iwata Over 4.5 -110": {
+        "team1": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 2:30 AM",
+            "event_teams": "J\u00fabilo Iwata vs Kawasaki Frontale",
+            "event_type": "Soccer | Japan - J1 League",
+            "bet_type": "Team Total Corners",
+            "bet_name": "J\u00fabilo Iwata Over 4.5",
+            "bet_odds": "-110"
+        },
+        "team2": {
+            "percent_profit": "0%",
+            "event_time": "Sat, Jul 6 at 2:30 AM",
+            "event_teams": "J\u00fabilo Iwata vs Kawasaki Frontale",
+            "event_type": "Soccer | Japan - J1 League",
+            "bet_type": "Team Total Corners",
+            "bet_name": "J\u00fabilo Iwata Under 4.5",
+            "bet_odds": "+110"
+        }
+    },
+    "Miguel Sano Over 0.5 +525": {
+        "team1": {
+            "percent_profit": "0.13%",
+            "event_time": "Today at 1:07 PM",
+            "event_teams": "Los Angeles Angels vs Oakland Athletics",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Home Runs",
+            "bet_name": "Miguel Sano Over 0.5",
+            "bet_odds": "+525"
+        },
+        "team2": {
+            "percent_profit": "0.13%",
+            "event_time": "Today at 1:07 PM",
+            "event_teams": "Los Angeles Angels vs Oakland Athletics",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Home Runs",
+            "bet_name": "Miguel Sano Under 0.5",
+            "bet_odds": "-530"
+        }
+    },
+    "Matt Chapman Over 0.5 +420": {
+        "team1": {
+            "percent_profit": "0.33%",
+            "event_time": "Today at 4:20 PM",
+            "event_teams": "San Francisco Giants vs Atlanta Braves",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Doubles",
+            "bet_name": "Matt Chapman Over 0.5",
+            "bet_odds": "+420"
+        },
+        "team2": {
+            "percent_profit": "0.33%",
+            "event_time": "Today at 4:20 PM",
+            "event_teams": "San Francisco Giants vs Atlanta Braves",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Doubles",
+            "bet_name": "Matt Chapman Under 0.5",
+            "bet_odds": "-429"
+        }
+    },
+    "Over 22.5 +119": {
+        "team1": {
+            "percent_profit": "0.21%",
+            "event_time": "Today at 7:10 AM",
+            "event_teams": "Elina Svitolina vs Jule Niemeier",
+            "event_type": "Tennis | WTA",
+            "bet_type": "Total Games",
+            "bet_name": "Over 22.5",
+            "bet_odds": "+119"
+        },
+        "team2": {
+            "percent_profit": "0.21%",
+            "event_time": "Today at 7:10 AM",
+            "event_teams": "Elina Svitolina vs Jule Niemeier",
+            "event_type": "Tennis | WTA",
+            "bet_type": "Total Games",
+            "bet_name": "Under 22.5",
+            "bet_odds": "-120"
+        }
+    },
+    "Over 9.5 +275": {
+        "team1": {
+            "percent_profit": "0.21%",
+            "event_time": "Today at 7:30 AM",
+            "event_teams": "Petra Martic vs Iga Swiatek",
+            "event_type": "Tennis | WTA",
+            "bet_type": "1st Set Total Games",
+            "bet_name": "Over 9.5",
+            "bet_odds": "+275"
+        },
+        "team2": {
+            "percent_profit": "0.21%",
+            "event_time": "Today at 7:30 AM",
+            "event_teams": "Petra Martic vs Iga Swiatek",
+            "event_type": "Tennis | WTA",
+            "bet_type": "1st Set Total Games",
+            "bet_name": "Under 9.5",
+            "bet_odds": "-278"
+        }
+    },
+    "Baltimore Ravens +3 -115": {
+        "team1": {
+            "percent_profit": "0.22%",
+            "event_time": "Thu, Sep 5 at 5:20 PM",
+            "event_teams": "Baltimore Ravens vs Kansas City Chiefs",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "Baltimore Ravens +3",
+            "bet_odds": "-115"
+        },
+        "team2": {
+            "percent_profit": "0.22%",
+            "event_time": "Thu, Sep 5 at 5:20 PM",
+            "event_teams": "Baltimore Ravens vs Kansas City Chiefs",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "Kansas City Chiefs -3",
+            "bet_odds": "+114"
+        }
+    },
+    "Over 0.5 -380": {
+        "team1": {
+            "percent_profit": "0.22%",
+            "event_time": "Sat, Jul 6 at 12:00 PM",
+            "event_teams": "Netherlands vs T\u00fcrkiye",
+            "event_type": "Soccer | UEFA - European Championship",
+            "bet_type": "2nd Half Total Goals",
+            "bet_name": "Over 0.5",
+            "bet_odds": "-380"
+        },
+        "team2": {
+            "percent_profit": "0.22%",
+            "event_time": "Sat, Jul 6 at 12:00 PM",
+            "event_teams": "Netherlands vs T\u00fcrkiye",
+            "event_type": "Soccer | UEFA - European Championship",
+            "bet_type": "2nd Half Total Goals",
+            "bet_name": "Under 0.5",
+            "bet_odds": "+375"
+        }
+    },
+    "Atlanta Falcons -198": {
+        "team1": {
+            "percent_profit": "0.23%",
+            "event_time": "Sun, Dec 22 at 10:00 AM",
+            "event_teams": "New York Giants vs Atlanta Falcons",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Atlanta Falcons",
+            "bet_odds": "-198"
+        },
+        "team2": {
+            "percent_profit": "0.23%",
+            "event_time": "Sun, Dec 22 at 10:00 AM",
+            "event_teams": "New York Giants vs Atlanta Falcons",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "New York Giants",
+            "bet_odds": "+196"
+        }
+    },
+    "New York Jets +5.5 -105": {
+        "team1": {
+            "percent_profit": "0.24%",
+            "event_time": "Mon, Sep 9 at 5:15 PM",
+            "event_teams": "New York Jets vs San Francisco 49ers",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "New York Jets +5.5",
+            "bet_odds": "-105"
+        },
+        "team2": {
+            "percent_profit": "0.24%",
+            "event_time": "Mon, Sep 9 at 5:15 PM",
+            "event_teams": "New York Jets vs San Francisco 49ers",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "San Francisco 49ers -5.5",
+            "bet_odds": "+104"
+        }
+    },
+    "Houston Astros -106": {
+        "team1": {
+            "percent_profit": "0.24%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Moneyline",
+            "bet_name": "Houston Astros",
+            "bet_odds": "-106"
+        },
+        "team2": {
+            "percent_profit": "0.24%",
+            "event_time": "Today at 10:07 AM",
+            "event_teams": "Houston Astros vs Toronto Blue Jays",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Moneyline",
+            "bet_name": "Toronto Blue Jays",
+            "bet_odds": "+105"
+        }
+    },
+    "Tennessee Titans +4 +100": {
+        "team1": {
+            "percent_profit": "0.25%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Tennessee Titans vs Chicago Bears",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "Tennessee Titans +4",
+            "bet_odds": "+100"
+        },
+        "team2": {
+            "percent_profit": "0.25%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Tennessee Titans vs Chicago Bears",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "Chicago Bears -4",
+            "bet_odds": "-101"
+        }
+    },
+    "Carolina Panthers +4.5 -102": {
+        "team1": {
+            "percent_profit": "0.25%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs New Orleans Saints",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "Carolina Panthers +4.5",
+            "bet_odds": "-102"
+        },
+        "team2": {
+            "percent_profit": "0.25%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs New Orleans Saints",
+            "event_type": "Football | NFL",
+            "bet_type": "Point Spread",
+            "bet_name": "New Orleans Saints -4.5",
+            "bet_odds": "+101"
+        }
+    },
+    "DJ Stewart Over 0.5 +340": {
+        "team1": {
+            "percent_profit": "0.26%",
+            "event_time": "Today at 8:05 AM",
+            "event_teams": "New York Mets vs Washington Nationals",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Home Runs",
+            "bet_name": "DJ Stewart Over 0.5",
+            "bet_odds": "+340"
+        },
+        "team2": {
+            "percent_profit": "0.26%",
+            "event_time": "Today at 8:05 AM",
+            "event_teams": "New York Mets vs Washington Nationals",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Home Runs",
+            "bet_name": "DJ Stewart Under 0.5",
+            "bet_odds": "-345"
+        }
+    },
+    "Miguel Sano Over 0.5 +520": {
+        "team1": {
+            "percent_profit": "0.26%",
+            "event_time": "Today at 1:07 PM",
+            "event_teams": "Los Angeles Angels vs Oakland Athletics",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Home Runs",
+            "bet_name": "Miguel Sano Over 0.5",
+            "bet_odds": "+520"
+        },
+        "team2": {
+            "percent_profit": "0.26%",
+            "event_time": "Today at 1:07 PM",
+            "event_teams": "Los Angeles Angels vs Oakland Athletics",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Home Runs",
+            "bet_name": "Miguel Sano Under 0.5",
+            "bet_odds": "-530"
+        }
+    },
+    "Josh Rojas Over 0.5 +490": {
+        "team1": {
+            "percent_profit": "0.28%",
+            "event_time": "Today at 1:10 PM",
+            "event_teams": "Baltimore Orioles vs Seattle Mariners",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Stolen Bases",
+            "bet_name": "Josh Rojas Over 0.5",
+            "bet_odds": "+490"
+        },
+        "team2": {
+            "percent_profit": "0.28%",
+            "event_time": "Today at 1:10 PM",
+            "event_teams": "Baltimore Orioles vs Seattle Mariners",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Stolen Bases",
+            "bet_name": "Josh Rojas Under 0.5",
+            "bet_odds": "-500"
+        }
+    },
+    "Zac Gallen Over 5.5 +148": {
+        "team1": {
+            "percent_profit": "0.32%",
+            "event_time": "Today at 6:10 PM",
+            "event_teams": "Arizona Diamondbacks vs Los Angeles Dodgers",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Strikeouts",
+            "bet_name": "Zac Gallen Over 5.5",
+            "bet_odds": "+148"
+        },
+        "team2": {
+            "percent_profit": "0.32%",
+            "event_time": "Today at 6:10 PM",
+            "event_teams": "Arizona Diamondbacks vs Los Angeles Dodgers",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Player Strikeouts",
+            "bet_name": "Zac Gallen Under 5.5",
+            "bet_odds": "-150"
+        }
+    },
+    "Arizona Cardinals +285": {
+        "team1": {
+            "percent_profit": "0.33%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Arizona Cardinals vs Buffalo Bills",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Arizona Cardinals",
+            "bet_odds": "+285"
+        },
+        "team2": {
+            "percent_profit": "0.33%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Arizona Cardinals vs Buffalo Bills",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Buffalo Bills",
+            "bet_odds": "-290"
+        }
+    },
+    "Ottawa Redblacks +140": {
+        "team1": {
+            "percent_profit": "0.34%",
+            "event_time": "Fri, Jul 5 at 5:30 PM",
+            "event_teams": "Ottawa Redblacks vs Winnipeg Blue Bombers",
+            "event_type": "Football | CFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Ottawa Redblacks",
+            "bet_odds": "+140"
+        },
+        "team2": {
+            "percent_profit": "0.34%",
+            "event_time": "Fri, Jul 5 at 5:30 PM",
+            "event_teams": "Ottawa Redblacks vs Winnipeg Blue Bombers",
+            "event_type": "Football | CFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Winnipeg Blue Bombers",
+            "bet_odds": "-142"
+        }
+    },
+    "Carolina Panthers +194": {
+        "team1": {
+            "percent_profit": "0.34%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs New Orleans Saints",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Carolina Panthers",
+            "bet_odds": "+194"
+        },
+        "team2": {
+            "percent_profit": "0.34%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Carolina Panthers vs New Orleans Saints",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "New Orleans Saints",
+            "bet_odds": "-197"
+        }
+    },
+    "Over 50 +123": {
+        "team1": {
+            "percent_profit": "0.4%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Jacksonville Jaguars vs Miami Dolphins",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Over 50",
+            "bet_odds": "+123"
+        },
+        "team2": {
+            "percent_profit": "0.4%",
+            "event_time": "Sun, Sep 8 at 10:00 AM",
+            "event_teams": "Jacksonville Jaguars vs Miami Dolphins",
+            "event_type": "Football | NFL",
+            "bet_type": "Total Points",
+            "bet_name": "Under 50",
+            "bet_odds": "-125"
+        }
+    },
+    "San Diego Padres +123": {
+        "team1": {
+            "percent_profit": "0.4%",
+            "event_time": "Today at 11:35 AM",
+            "event_teams": "San Diego Padres vs Texas Rangers",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Moneyline",
+            "bet_name": "San Diego Padres",
+            "bet_odds": "+123"
+        },
+        "team2": {
+            "percent_profit": "0.4%",
+            "event_time": "Today at 11:35 AM",
+            "event_teams": "San Diego Padres vs Texas Rangers",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Moneyline",
+            "bet_name": "Texas Rangers",
+            "bet_odds": "-125"
+        }
+    },
+    "Over 0.5 -120": {
+        "team1": {
+            "percent_profit": "0.42%",
+            "event_time": "Today at 5:10 PM",
+            "event_teams": "Milwaukee Brewers vs Colorado Rockies",
+            "event_type": "Baseball | MLB",
+            "bet_type": "8th Inning Total Runs",
+            "bet_name": "Over 0.5",
+            "bet_odds": "-120"
+        },
+        "team2": {
+            "percent_profit": "0.42%",
+            "event_time": "Today at 5:10 PM",
+            "event_teams": "Milwaukee Brewers vs Colorado Rockies",
+            "event_type": "Baseball | MLB",
+            "bet_type": "8th Inning Total Runs",
+            "bet_name": "Under 0.5",
+            "bet_odds": "+118"
+        }
+    },
+    "Caroline Wozniacki +1.5 +118": {
+        "team1": {
+            "percent_profit": "0.42%",
+            "event_time": "Today at 8:30 AM",
+            "event_teams": "Leylah Fernandez vs Caroline Wozniacki",
+            "event_type": "Tennis | WTA",
+            "bet_type": "Game Spread",
+            "bet_name": "Caroline Wozniacki +1.5",
+            "bet_odds": "+118"
+        },
+        "team2": {
+            "percent_profit": "0.42%",
+            "event_time": "Today at 8:30 AM",
+            "event_teams": "Leylah Fernandez vs Caroline Wozniacki",
+            "event_type": "Tennis | WTA",
+            "bet_type": "Game Spread",
+            "bet_name": "Leylah Fernandez -1.5",
+            "bet_odds": "-120"
+        }
+    },
+    "Kansas City Royals +115": {
+        "team1": {
+            "percent_profit": "0.43%",
+            "event_time": "Today at 5:10 PM",
+            "event_teams": "Tampa Bay Rays vs Kansas City Royals",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Moneyline",
+            "bet_name": "Kansas City Royals",
+            "bet_odds": "+115"
+        },
+        "team2": {
+            "percent_profit": "0.43%",
+            "event_time": "Today at 5:10 PM",
+            "event_teams": "Tampa Bay Rays vs Kansas City Royals",
+            "event_type": "Baseball | MLB",
+            "bet_type": "Moneyline",
+            "bet_name": "Tampa Bay Rays",
+            "bet_odds": "-117"
+        }
+    },
+    "Kansas City Chiefs -235": {
+        "team1": {
+            "percent_profit": "0.45%",
+            "event_time": "Wed, Dec 25 at 10:00 AM",
+            "event_teams": "Kansas City Chiefs vs Pittsburgh Steelers",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Kansas City Chiefs",
+            "bet_odds": "-235"
+        },
+        "team2": {
+            "percent_profit": "0.45%",
+            "event_time": "Wed, Dec 25 at 10:00 AM",
+            "event_teams": "Kansas City Chiefs vs Pittsburgh Steelers",
+            "event_type": "Football | NFL",
+            "bet_type": "Moneyline",
+            "bet_name": "Pittsburgh Steelers",
+            "bet_odds": "+230"
+        }
+    }
+}
